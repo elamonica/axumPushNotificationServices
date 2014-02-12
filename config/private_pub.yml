@@ -1,10 +1,4 @@
-development:
-  server: "http://localhost:9292/faye"
-  secret_token: "secret"
-test:
-  server: "http://localhost:9292/faye"
-  secret_token: "secret"
 production:
-  server: "http://axum-push-notification-service.herokuapp.com/faye"
-  secret_token: "59d571a70b4eb06cd21b382bf9e6571a41f4d912737ee235e026faefd17dec5e"
+  server: "http://axum-push-notification-service.herokuapp.com/faye/faye"
+  secret_token: "pepePompim"
   signature_expiration: 3600 # one hour
