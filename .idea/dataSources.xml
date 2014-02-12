@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2763649984">
+    <data-source source="LOCAL" name="Rails axumPushNotificationServices: development" uuid="e92417ea-59f8-4106-b66f-9e732e8950ce">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:faye</jdbc-url>
+      <user-name>admin</user-name>
+      <user-password>dfecdfecdf99df98df93df99df9cdf99df9cdf93</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails axumPushNotificationServices: test" uuid="b0b14501-d096-45f1-8936-24b5906a3fd5">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:db/test.sqlite3</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

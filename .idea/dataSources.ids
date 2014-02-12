@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails axumPushNotificationServices: development" uuid="e92417ea-59f8-4106-b66f-9e732e8950ce">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails axumPushNotificationServices: test" uuid="b0b14501-d096-45f1-8936-24b5906a3fd5">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
