@@ -6,6 +6,9 @@ gem 'rails', '4.0.2'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 
+# Heroku
+gem 'rails_12factor', group: :production
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0'
 
@@ -20,6 +23,7 @@ gem 'coffee-rails', '~> 4.0.0'
 
 gem 'private_pub'
 
+gem 'thin'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
@@ -46,3 +50,6 @@ end
 
 # Use debugger
 gem 'debugger', group: [:development, :test]
+
+
+ruby "2.0.0"
